@@ -56,6 +56,11 @@ body {
     line-height: 1.19;
     color: var(--dark-titel-color);
 }
+
+.current {
+    color: var(--accent-color);
+}
+
 .menu-link:hover,
 .menu-link:focus {
     color: var(--accent-color);
@@ -183,7 +188,14 @@ body {
     color: rgba(255, 255, 255, 0.6);
 }
 
-
+.address:hover,
+.address:focus,
+.address-mail:hover,
+.address-mail:focus,
+.address-phone:hover,
+.address-phone:focus {
+    color: var(--accent-color);
+}
 
 /* PORTFOLIO */
 
