@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-jukades.github.io/goit-markup-hw-02/
+# goit-markup-hw-01
