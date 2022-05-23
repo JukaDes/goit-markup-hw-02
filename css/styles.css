@@ -69,6 +69,7 @@ body {
 .page-header-email,
 .page-header-phone {
     color: var(--text-color);
+    font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
@@ -99,6 +100,9 @@ body {
 .button {
     color: var(--light-titel-color);
     font-family: inherit;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
     background-color: var(--accent-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
@@ -219,10 +223,9 @@ body {
 .project-name {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.62px;
+    line-height: 2;
     letter-spacing: 0.03em;
     color: var(--dark-titel-color);
-    background-color: var(--grey-background-color);
 }
 
 .project-type {
